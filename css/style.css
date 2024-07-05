@@ -181,7 +181,7 @@
 
 @keyframes neptune-rotation {
     0%{
-        transform: rotate(0deg) translate(300px) rotate(0deg);
+        transform: rotate(0deg) translate(300px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(300px) rotate(360deg);
@@ -190,7 +190,7 @@
 
 @keyframes uranus-rotation {
     0%{
-        transform: rotate(0deg) translate(275px) rotate(0deg);
+        transform: rotate(0deg) translate(275px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(275px) rotate(360deg);
@@ -199,7 +199,7 @@
 
 @keyframes saturn-rotation {
     0%{
-        transform: rotate(0deg) translate(250px) rotate(0deg);
+        transform: rotate(0deg) translate(250px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(250px) rotate(360deg);
@@ -208,7 +208,7 @@
 
 @keyframes jupiter-rotation {
     0%{
-        transform: rotate(0deg) translate(225px) rotate(0deg);
+        transform: rotate(0deg) translate(225px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(225px) rotate(360deg);
@@ -217,7 +217,7 @@
 
 @keyframes mars-rotation {
     0%{
-        transform: rotate(0deg) translate(200px) rotate(0deg);
+        transform: rotate(0deg) translate(200px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(200px) rotate(360deg);
@@ -226,7 +226,7 @@
 
 @keyframes earth-rotation {
     0%{
-        transform: rotate(0deg) translate(175px) rotate(0deg);
+        transform: rotate(0deg) translate(175px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(175px) rotate(360deg);
@@ -235,7 +235,7 @@
 
 @keyframes venus-rotation {
     0%{
-        transform: rotate(0deg) translate(150px) rotate(0deg);
+        transform: rotate(0deg) translate(150px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(150px) rotate(360deg);
@@ -244,7 +244,7 @@
 
 @keyframes mercury-rotation {
     0%{
-        transform: rotate(0deg) translate(125px) rotate(0deg);
+        transform: rotate(0deg) translate(125px) rotate(360deg);
     }
     100%{
         transform: rotate(360deg) translate(125px) rotate(360deg);
